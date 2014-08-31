@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat May 10 09:16:43 2014
-
-@author: TPB_2
-"""
-
-
 from bokeh.plotting import line, circle, curplot, xaxis, yaxis, grid, figure, hold
 from bokeh.embed import autoload_static
 from bokeh.resources import CDN
